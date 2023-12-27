@@ -19,8 +19,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manvithapula&label=Profile%20views&color=0e75b6&style=flat" alt="manvithapula" /> </p>
-<img align="left" alt="Coding" width="100" src="https://miro.medium.com/v2/resize:fit:679/0*F4t8-xz-b98ZcvEH.gif">
-
+<p <img align="left" alt="Coding" width="100" src="https://miro.medium.com/v2/resize:fit:679/0*F4t8-xz-b98ZcvEH.gif"> </p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manvithapula&show_icons=true&locale=en&layout=compact" alt="manvithapula" /></p>
