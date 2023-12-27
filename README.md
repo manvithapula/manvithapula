@@ -19,5 +19,5 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manvithapula&label=Profile%20views&color=0e75b6&style=flat" alt="manvithapula" /> </p>
-<img align="right" alt="Coding" width="100" src="https://miro.medium.com/v2/resize:fit:679/0*F4t8-xz-b98ZcvEH.gif">
+<img align="left" alt="Coding" width="100" src="https://miro.medium.com/v2/resize:fit:679/0*F4t8-xz-b98ZcvEH.gif">
 
