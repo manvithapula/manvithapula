@@ -22,4 +22,8 @@
 <img align="left" alt="Coding" width="100" src="https://miro.medium.com/v2/resize:fit:679/0*F4t8-xz-b98ZcvEH.gif"> 
 
 <br> 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=manvithapula&show_icons=true&locale=en&layout=compact" alt="manvithapula" /></p> </br>
+<br> 
+<br> 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manvithapula&show_icons=true&locale=en&layout=compact" alt="manvithapula" /></p> </br>
+</br>
+</br>
