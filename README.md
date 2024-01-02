@@ -1,4 +1,4 @@
-<h1 align="center">Hi</h1>
+<h1 align="center">hi</h1>
 <h3 align="center"> I'm Manvitha a computer science student. My current passion and expertise lies in app development. Through my coursework, projects, and co-curricular activities, I have gained a foundational knowledge in the field and am eager to explore new opportunities and challenges.</h3>
 
 - 🔭 I’m currently working on **Android App Development**
