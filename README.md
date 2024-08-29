@@ -1,7 +1,7 @@
 <h1 align="center">hi</h1>
 <h3 align="center"> I'm Manvitha, a computer science student. I spend more time fixing the bugs than writing the code. Through my coursework, projects, and co-curricular activities, I have gained a foundational knowledge in the field and am eager to explore new opportunities and challenges.</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript and Swift**
 
 - 📫 How to reach me **manvithapula@gmail.com**
 
