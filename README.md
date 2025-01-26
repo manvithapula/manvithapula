@@ -14,8 +14,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/p-manvitha-rayal-9b390424b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="p-manvitha-rayal" height="30" width="40" /></a>
-<a href="https://instagram.com/manviiithaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manviiithaa" height="30" width="40" /></a>
-</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manvithapula&label=Profile%20views&color=0e75b6&style=flat" alt="manvithapula" /> </p>
 <img align="left" alt="Coding" width="100" src="https://miro.medium.com/v2/resize:fit:679/0*F4t8-xz-b98ZcvEH.gif"> 
